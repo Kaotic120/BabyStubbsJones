@@ -1,0 +1,16 @@
+body{
+    background-color: #7a7baf;
+    flex-wrap: wrap ;
+    background-image: radial-gradient(#6498d4 ,#6498d4,#e77ceb ,#6498d4,#6498d4 );
+    
+}
+.kcard{
+    display: flex;
+    flex-wrap: wrap ;
+    
+}
+.sonoimage{
+    width: 400px;
+    height: 400px;
+    
+}
